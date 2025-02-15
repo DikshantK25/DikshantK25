@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dikshant Koriwar</h1>
+<h1 align="center">Hi 👋, I'm Dikshant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshantk25&label=Profile%20views&color=0e75b6&style=flat" alt="dikshantk25" /> </p>
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/dikshantk29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshantk29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dikshant-koriwar-3aa1b722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshant-koriwar-3aa1b722a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/Dikshant29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dikshant29/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/Dikshant29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/DikshantK25/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
