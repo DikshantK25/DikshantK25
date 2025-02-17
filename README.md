@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/dikshantk29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dikshantk29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dikshant-koriwar-3aa1b722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikshant-koriwar-3aa1b722a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/Dikshant29/" target="blank">
+<a href="https:https://leetcode.com/u/Dikshant29/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Dikshant29/" height="30" width="40" />
 </a>
 
